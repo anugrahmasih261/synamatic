@@ -29,7 +29,7 @@ Check out [FRONTEND LIVE DEMO](https://github.com/anugrahmasih261/moviesworld.gi
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/anugrahmasih261/synamatic.git
 ```
 
 2. Backend setting
